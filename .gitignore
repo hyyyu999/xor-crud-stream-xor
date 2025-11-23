@@ -1,0 +1,5 @@
+# Ignore OS files and local env
+.DS_Store
+.vscode/
+vendor/
+node_modules/
